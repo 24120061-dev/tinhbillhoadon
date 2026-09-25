@@ -12,7 +12,7 @@ CSV_FILE = "history.csv"
 menu = {
     "Đồ ăn": {
         "Pizza Hải Sản": 150000,"Pizza cá": 500000,
-        "Mì Ý Bò Bằm": 95000,
+        "Mì Ý Bò Bằm": 95000,"Gà chiên mắm tỏi":200000,
         "Burger Gà": 35000,
         "Salad Trộn": 50000,
         "Bít tết Bò Mỹ": 250000,
