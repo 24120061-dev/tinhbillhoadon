@@ -13,6 +13,7 @@ menu = {
     "Đồ ăn": {
         "Pizza Hải Sản": 150000,"Pizza cá": 500000,
         "Mì Ý Bò Bằm": 95000,"Gà chiên mắm tỏi":200000,
+        "Cơm chiên hải sản": 100000, 
         "Burger Gà": 35000,
         "Salad Trộn": 50000,
         "Bít tết Bò Mỹ": 250000,
@@ -22,7 +23,7 @@ menu = {
         "Lẩu Thái hải sản": 300000,
     },
     "Thức uống": {
-        "Coca Cola": 20000,
+        "Coca Cola": 20000,"Hakutsuru": 1600000,
         "Trà sữa SV": 70000,
         "Trà Đào Cam Sả": 35000,
         "Cà Phê Sữa": 25000,
